@@ -1,4 +1,4 @@
-# mopeyeDataset
+# MopEyeDataset
 **MopEye: Opportunistic Monitoring of Per-app Mobile Network Performance**
 * Homepage: https://mopeye.github.io/
 * App link: https://play.google.com/store/apps/details?id=com.mopeye
