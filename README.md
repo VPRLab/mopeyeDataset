@@ -16,11 +16,11 @@ MopEye was published in USENIX ATC'17, and the following is the bib information:
 ```
 **We are periodically releasing the datasets of MopEye for benefiting networking research.**
 
-## Access Condtions
+## Access Policy
 We **request** that applicants:
 * Do not redistribute the dataset without our consent;
 * Do not make a commercial usage of the dataset;
-* Get a faculty, or someone in a permanent position, to agree and commit to the conditions.
+* Get a faculty, or someone in a permanent position, to agree and commit to the policy.
 
 To access the following database files, please send an application email (with the corresponding email subject) to dywu.2015@smu.edu.sg stating the name of your research institution and the name of the person requesting access. Make sure to send your application from your university (or research institution) email account.
 
