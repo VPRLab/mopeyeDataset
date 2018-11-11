@@ -32,3 +32,4 @@ To access the following database files, please send an application email with th
 * Then make SQL query according to your need.
 
 ## The Database Structure
+![MopEyeDBTables.png](https://raw.githubusercontent.com/daoyuan14/mopeyeDataset/master/MopEyeDBTables.png)
