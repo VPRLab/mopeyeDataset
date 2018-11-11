@@ -16,13 +16,19 @@ MopEye was published in USENIX ATC'17, and the following is the bib information:
 ```
 **We are periodically releasing the datasets of MopEye for benefiting networking research.**
 
-To access the following database files, please send an application email with the corresponding email subject to dywu.2015@smu.edu.sg stating the name of your research institution and the name of the person requesting access. Make sure to send your application from your university (or research institution) email account.
+## Access Condtions
+We **request** that applicants:
+* Do not redistribute the dataset without our consent;
+* Do not make a commercial usage of the dataset;
+* Get a faculty, or someone in a permanent position, to agree and commit to the conditions.
+
+To access the following database files, please send an application email (with the corresponding email subject) to dywu.2015@smu.edu.sg stating the name of your research institution and the name of the person requesting access. Make sure to send your application from your university (or research institution) email account.
 
 ## 170103MopEyeDataset
 * Peroid: From 16 May 2016 to 3 January 2017 approximately
 * DB file: https://www.dropbox.com/s/4d5mw9yqle6ka29/170103MopEyeDataset.db?dl=0
-* File size: 1.1GB
-* Requesting email subject: "[MopEye] Requesting the 170103 dataset"
+* File size and MD5: 1.1GB; fef6c5940705a44e4bfa4e64c8edc805
+* Email subject: "Requesting the 170103 MopEye dataset from XXX", where XXX is the abbreviation of your institution.
 
 ## 180708MopEyeDataset
 * Peroid: From 16 May 2016 to 8 July 2018 approximately
