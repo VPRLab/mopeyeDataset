@@ -21,6 +21,7 @@ To access the following database files, please send an application email with th
 ## 170103MopEyeDataset
 * Peroid: From 16 May 2016 to 3 January 2017 approximately
 * DB file: https://www.dropbox.com/s/4d5mw9yqle6ka29/170103MopEyeDataset.db?dl=0
+* File size: 1.1GB
 * Requesting email subject: "[MopEye] Requesting the 170103 dataset"
 
 ## 180708MopEyeDataset
