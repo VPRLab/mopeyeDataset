@@ -1,7 +1,7 @@
 # MopEyeDataset
 **MopEye: Opportunistic Monitoring of Per-app Mobile Network Performance**
 * Homepage: https://mopeye.github.io/
-* App link: https://play.google.com/store/apps/details?id=com.mopeye
+* App link: https://play.google.com/store/apps/details?id=com.mopeye (will re-upload soon)
 * Paper link: https://www.usenix.org/conference/atc17/technical-sessions/presentation/wu
 
 MopEye was published in USENIX ATC'17, and the following is the bib information:
@@ -26,17 +26,21 @@ To access the following database files, please send an application email (with t
 
 ## 170103MopEyeDataset
 * Peroid: From 16 May 2016 to 3 January 2017 approximately
+* Used in our ATC'17 paper: https://daoyuan14.github.io/papers/ATC17_MopEye.pdf
 * DB file: https://www.dropbox.com/s/4d5mw9yqle6ka29/170103MopEyeDataset.db?dl=0
-* File size and MD5: 1.1GB; fef6c5940705a44e4bfa4e64c8edc805
 * Email subject: "Requesting the 170103 MopEye dataset from XXX", where XXX is the abbreviation of your institution.
 
 ## 180708MopEyeDataset
 * Peroid: From 16 May 2016 to 8 July 2018 approximately
-* DB file: To be announced
+* Used in our IWQoS'19 paper: https://daoyuan14.github.io/papers/IWQoS19_MopEyeDatasetAnalysis.pdf
+* DB file: To be announced soon.
+* Email subject: "Requesting the 180708 MopEye dataset from XXX", where XXX is the abbreviation of your institution.
 
 ## How to Use the DB
 * You can access the dataset db file using the SQLite Browser.
 * Then make SQL query according to your need.
 
 ## The Database Structure
+For the meaning of database structure, please refer to **Table 1** in https://daoyuan14.github.io/papers/IWQoS19_MopEyeDatasetAnalysis.pdf
+
 ![MopEyeDBTables.png](https://raw.githubusercontent.com/daoyuan14/mopeyeDataset/master/MopEyeDBTables.png)
