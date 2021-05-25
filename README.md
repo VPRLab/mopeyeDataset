@@ -25,15 +25,17 @@ We **request** that applicants:
 To access the following database files, please send an application email (with the corresponding email subject) to **dywu(at)ie.cuhk.edu.hk** stating the name of your research institution and the name of the person requesting access. Make sure to send your application from your university (or research institution) email account.
 
 ## 170103MopEyeDataset
-* Peroid: From 16 May 2016 to 3 January 2017 approximately
-* Used in our ATC'17 paper: https://daoyuan14.github.io/papers/ATC17_MopEye.pdf
-* DB file: https://www.dropbox.com/s/4d5mw9yqle6ka29/170103MopEyeDataset.db?dl=0
+* Peroid: From 16 May 2016 to 3 January 2017 approximately;
+* Five million measurements from 6,266 Android apps on 2,351 smartphones;
+* Used in our ATC'17 paper: https://daoyuan14.github.io/papers/ATC17_MopEye.pdf;
+* DB file: https://www.dropbox.com/s/4d5mw9yqle6ka29/170103MopEyeDataset.db?dl=0;
 * Email subject: "Requesting the 170103 MopEye dataset from XXX", where XXX is the abbreviation of your institution.
 
 ## 180708MopEyeDataset
-* Peroid: From 16 May 2016 to 8 July 2018 approximately
-* Used in our IWQoS'19 paper: https://daoyuan14.github.io/papers/IWQoS19_MopEyeDatasetAnalysis.pdf
-* DB file: To be announced soon.
+* Peroid: From 16 May 2016 to 8 July 2018 approximately;
+* 20 million RTT measurements from 12.5K users in 653 ISPs and 173 countries;
+* Used in our IWQoS'19 paper: https://daoyuan14.github.io/papers/IWQoS19_MopEyeDatasetAnalysis.pdf;
+* DB file: will be generated upon the first applicant;
 * Email subject: "Requesting the 180708 MopEye dataset from XXX", where XXX is the abbreviation of your institution.
 
 ## How to Use the DB
