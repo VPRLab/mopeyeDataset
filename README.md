@@ -39,7 +39,6 @@ To access the following database files, please send an application email (with t
 ## 180708MopEyeDataset
 * Peroid: From 16 May 2016 to 8 July 2018 approximately;
 * 20 million RTT measurements from 12.5K users in 653 ISPs and 173 countries;
-* Used in our IWQoS'19 paper: https://daoyuan14.github.io/papers/IWQoS19_MopEyeDatasetAnalysis.pdf;
 * DB file: will be provided upon receiving the email;
 * Email subject: "Requesting the 180708 MopEye dataset from XXX", where XXX is the abbreviation of your institution.
 * Applicants' institution and potential research outputs:
