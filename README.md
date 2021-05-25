@@ -22,7 +22,7 @@ We **request** that applicants:
 * Do not make a commercial usage of the dataset;
 * Get a faculty, or someone in a permanent position, to agree and commit to the policy.
 
-To access the following database files, please send an application email (with the corresponding email subject) to dywu(at)ie.cuhk.edu.hk stating the name of your research institution and the name of the person requesting access. Make sure to send your application from your university (or research institution) email account.
+To access the following database files, please send an application email (with the corresponding email subject) to **dywu(at)ie.cuhk.edu.hk** stating the name of your research institution and the name of the person requesting access. Make sure to send your application from your university (or research institution) email account.
 
 ## 170103MopEyeDataset
 * Peroid: From 16 May 2016 to 3 January 2017 approximately
