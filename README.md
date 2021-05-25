@@ -27,12 +27,12 @@ To access the following database files, please send an application email (with t
 ## 170103MopEyeDataset
 * Peroid: From 16 May 2016 to 3 January 2017 approximately;
 * Five million measurements from 6,266 Android apps on 2,351 smartphones;
-* Used in our ATC'17 paper: https://daoyuan14.github.io/papers/ATC17_MopEye.pdf;
+* Used in our initial ATC'17 paper: https://daoyuan14.github.io/papers/ATC17_MopEye.pdf;
 * DB file: https://www.dropbox.com/s/4d5mw9yqle6ka29/170103MopEyeDataset.db?dl=0;
 * Email subject: "Requesting the 170103 MopEye dataset from XXX", where XXX is the abbreviation of your institution.
-* Applicants' institution:
-  * Shanghai Jiao Tong University, China [http://iiot.sjtu.edu.cn/xtian/paper/2019-infocom-Detecting%20Anomaly.pdf]
-  * NanJing University, China
+* Applicants' institution and potential research outputs:
+  * Shanghai Jiao Tong University, China [[INFOCOM'19](http://iiot.sjtu.edu.cn/xtian/paper/2019-infocom-Detecting%20Anomaly.pdf)]
+  * Nanjing University, China
   * Harbin Engineering University, China
   * K. N. Toosi University of Technology, Iran.
 
@@ -40,9 +40,10 @@ To access the following database files, please send an application email (with t
 * Peroid: From 16 May 2016 to 8 July 2018 approximately;
 * 20 million RTT measurements from 12.5K users in 653 ISPs and 173 countries;
 * Used in our IWQoS'19 paper: https://daoyuan14.github.io/papers/IWQoS19_MopEyeDatasetAnalysis.pdf;
-* DB file: will be generated upon the first applicant;
+* DB file: will be provided upon receiving the email;
 * Email subject: "Requesting the 180708 MopEye dataset from XXX", where XXX is the abbreviation of your institution.
-* Applicants' institution:
+* Applicants' institution and potential research outputs:
+  * Southern University of Science and Technology, China [[IWQoS'19](https://daoyuan14.github.io/papers/IWQoS19_MopEyeDatasetAnalysis.pdf)]
 
 ## How to Use the DB
 * You can access the dataset db file using the SQLite Browser.
