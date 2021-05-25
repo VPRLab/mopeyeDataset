@@ -30,6 +30,11 @@ To access the following database files, please send an application email (with t
 * Used in our ATC'17 paper: https://daoyuan14.github.io/papers/ATC17_MopEye.pdf;
 * DB file: https://www.dropbox.com/s/4d5mw9yqle6ka29/170103MopEyeDataset.db?dl=0;
 * Email subject: "Requesting the 170103 MopEye dataset from XXX", where XXX is the abbreviation of your institution.
+* Applicants' institution:
+  * Shanghai Jiao Tong University, China [http://iiot.sjtu.edu.cn/xtian/paper/2019-infocom-Detecting%20Anomaly.pdf]
+  * NanJing University, China
+  * Harbin Engineering University, China
+  * K. N. Toosi University of Technology, Iran.
 
 ## 180708MopEyeDataset
 * Peroid: From 16 May 2016 to 8 July 2018 approximately;
@@ -37,6 +42,7 @@ To access the following database files, please send an application email (with t
 * Used in our IWQoS'19 paper: https://daoyuan14.github.io/papers/IWQoS19_MopEyeDatasetAnalysis.pdf;
 * DB file: will be generated upon the first applicant;
 * Email subject: "Requesting the 180708 MopEye dataset from XXX", where XXX is the abbreviation of your institution.
+* Applicants' institution:
 
 ## How to Use the DB
 * You can access the dataset db file using the SQLite Browser.
