@@ -32,17 +32,11 @@ To access the following database files, please send an application email (with t
 * Email subject: "Requesting the 170103 MopEye dataset from XXX", where XXX is the abbreviation of your institution.
 * Applicants' institution and potential research outputs:
   * Shanghai Jiao Tong University, China [[INFOCOM'19](http://iiot.sjtu.edu.cn/xtian/paper/2019-infocom-Detecting%20Anomaly.pdf)]
+  * Southern University of Science and Technology, China [[IWQoS'19](https://daoyuan14.github.io/papers/IWQoS19_MopEyeDatasetAnalysis.pdf)]
   * Nanjing University, China
   * Harbin Engineering University, China
-  * K. N. Toosi University of Technology, Iran.
-
-## 180708MopEyeDataset
-* Peroid: From 16 May 2016 to 8 July 2018 approximately;
-* 20 million RTT measurements from 12.5K users in 653 ISPs and 173 countries;
-* DB file: will be provided upon receiving the email;
-* Email subject: "Requesting the 180708 MopEye dataset from XXX", where XXX is the abbreviation of your institution.
-* Applicants' institution and potential research outputs:
-  * Southern University of Science and Technology, China [[IWQoS'19](https://daoyuan14.github.io/papers/IWQoS19_MopEyeDatasetAnalysis.pdf)]
+  * K. N. Toosi University of Technology, Iran
+  * Xidian University, China
 
 ## How to Use the DB
 * You can access the dataset db file using the SQLite Browser.
